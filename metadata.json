@@ -1,0 +1,6 @@
+{
+  "name": "Smart Shoe",
+  "description": "Smart Shoe Step Counter - track your steps and set goals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
